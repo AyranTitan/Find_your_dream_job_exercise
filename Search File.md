@@ -3,5 +3,12 @@
 
 # Indeed
 ## 1 Data ANalyst / Online Marketing (m/w/d) denkwerk GmbH
-[Job Descr.](https://de.indeed.com/Jobs?q=Data+Analyst&l=K%C3%B6ln&rbl=K%C3%B6ln&jlid=0ce4fc92ecdb2f30&vjk=4da4486b817a3828&advn=3691729856677149){:target="_blank"}
+[Job Descr.](https://de.indeed.com/Jobs?q=Data+Analyst&l=K%C3%B6ln&rbl=K%C3%B6ln&jlid=0ce4fc92ecdb2f30&vjk=4da4486b817a3828&advn=3691729856677149)
 
+**Requirements**
+basic knowledge of Javascript, HTML & CSS
+knowledge of SQL, R Python or similar is an asset
+knowledge of agile managmeent methodologies; being able to work with Miro, Jira and Confluence
+
+**Tasks**
+web analysis with tag managers (google, Piwik, ...), AB-testing, presenetation of anaylses and reports to clients
